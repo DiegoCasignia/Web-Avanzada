@@ -4,7 +4,7 @@ $menuItems = include 'menuItems.php';
 
 <header>
     <div class="logo">
-        <a href="index.php"><img src="logo.jpg" alt="Logo"></a>
+        <a href="index.php"><img src="img/logo.jpg" alt="Logo"></a>
     </div>
     <nav class="menu">
         <ul>
